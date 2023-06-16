@@ -2,7 +2,7 @@
 ```
 export IMAGE=nvcr.io/nvidia/pytorch:23.03-py3
 ```
-**General Instructions**
+**Follow the General Instructions contained in the "main" README.md**
 ```
 cd examples/torchgeometric
 pip install torch_geometric
