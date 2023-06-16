@@ -3,7 +3,7 @@
 ```
 export IMAGE=nvcr.io/nvidia/tensorflow:23.04-tf2-py3
 ```
-**Follow the General Instructions contained in the "main" README.md**
+-> **Follow the General Instructions contained in the "main" README.md**
 ```
 cd examples/dynamicworld
 ```
